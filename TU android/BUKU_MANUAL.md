@@ -65,7 +65,7 @@ Aplikasi Tata Usaha Sekolah Islam adalah aplikasi mobile berbasis Flutter yang d
 
 1. **Clone Repository:**
 ```bash
-git clone <repository-url>
+git clone <git clone <https://github.com/zaktoun/TU-android>
 cd sekolah-islam-tata-usaha
 ```
 
