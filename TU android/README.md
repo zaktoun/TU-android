@@ -92,7 +92,7 @@ Aplikasi mobile berbasis Flutter untuk mengelola administrasi sekolah Islam seca
 
 1. **Clone repository**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/zaktoun/TU-android>
 cd sekolah-islam-tata-usaha
 ```
 
