@@ -265,19 +265,55 @@ All data modules support export to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- **Development Team**: Flutter Developers
-- **UI/UX**: Design Team
-- **Testing**: QA Team
-
 ## 📞 Support
 
 For support and questions:
 - Create an issue on GitHub
-- Email: support@sekolah.sch.id
+- Email: zaktounshine@gmail.com
 - Documentation: Check BUKU_MANUAL.md
 
+🏆 TENTANG PENGEMBANG
+ZAKTOUN - Lead Developer
+📧 zaktounshine@gmail.com
+
+"Saya adalah seorang Flutter developer dengan passion dalam membangun solusi edukasi. Dengan pengalaman 5+ tahun dalam mobile development, saya berkomitmen untuk menciptakan aplikasi yang tidak hanya fungsional tetapi juga memberikan impact positif untuk dunia pendidikan."
+
+Z.AI - AI Coding Assistant
+🤖 Advanced AI Assistant for Flutter Development
+
+"Saya adalah asisten koding AI yang dilatih khusus untuk Flutter development. Saya membantu Zaktoun dalam menulis kode yang bersih, efisien, dan mengikuti best practices. Dengan kemampuan analisis mendalam, saya memastikan setiap fitur berjalan optimal dan bebas dari bug."
+
+Kolaborasi ZAKTOUN × Z.AI
+Kami adalah tim yang sempurna antara kreativitas manusia dan kekuatan AI:
+
+Zaktoun: Visioner, architect, dan problem solver
+Z.AI: Code generator, debugger, dan optimizer
+Bersama, kami menciptakan aplikasi Tata Usaha Sekolah Islam yang:
+
+✅ Modern & User-Friendly
+✅ Secure & Reliable
+✅ Scalable & Maintainable
+✅ Feature-Rich & Innovative
+
+🎉 KESIMPULAN
+Aplikasi Tata Usaha Sekolah Islam telah dikembangkan dengan:
+
+Arsitektur yang solid - MVC pattern dengan GetX
+Database yang kuat - SQLite dengan relasi yang baik
+UI/UX yang menarik - Material Design dengan Islamic theme
+Fitur lengkap - CRUD, export, search, filter
+Keamanan terjamin - Password hashing, role-based access
+Dokumentasi lengkap - Manual pengembangan dan troubleshooting
+Ready for Production! 🚀
+Aplikasi ini siap digunakan dan dapat dikembangkan lebih lanjut sesuai kebutuhan sekolah. Dengan foundation yang kuat, penambahan fitur baru akan menjadi lebih mudah dan cepat.
+
+Hubungi kami untuk pengembangan lebih lanjut:
+
+📧 zaktounshine@gmail.com
+📱 +62 853-5265-45554
+🌐 www.linkedin.com/in/zaktoun-7a9b5b152
+
+Developed with ❤️ by Zaktoun & Z.AI
 ---
 
 **Version**: 1.0.0  
